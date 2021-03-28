@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/liamweb.github.io/static/css/main.c73a0eff.chunk.css",
+    "main.js": "/liamweb.github.io/static/js/main.d37cfc33.chunk.js",
+    "main.js.map": "/liamweb.github.io/static/js/main.d37cfc33.chunk.js.map",
+    "runtime-main.js": "/liamweb.github.io/static/js/runtime-main.0725276b.js",
+    "runtime-main.js.map": "/liamweb.github.io/static/js/runtime-main.0725276b.js.map",
+    "static/js/2.67dee92b.chunk.js": "/liamweb.github.io/static/js/2.67dee92b.chunk.js",
+    "static/js/2.67dee92b.chunk.js.map": "/liamweb.github.io/static/js/2.67dee92b.chunk.js.map",
+    "index.html": "/liamweb.github.io/index.html",
+    "static/css/main.c73a0eff.chunk.css.map": "/liamweb.github.io/static/css/main.c73a0eff.chunk.css.map",
+    "static/js/2.67dee92b.chunk.js.LICENSE.txt": "/liamweb.github.io/static/js/2.67dee92b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/liamweb.github.io/static/media/img-8.835c8122.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0725276b.js",
+    "static/js/2.67dee92b.chunk.js",
+    "static/css/main.c73a0eff.chunk.css",
+    "static/js/main.d37cfc33.chunk.js"
+  ]
+}
